@@ -1,0 +1,47 @@
+.heading {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 280px;
+}
+
+.heading .typography-content {
+  align-self: stretch;
+  font-family: var(--content-heading-5-font-family);
+  font-size: var(--content-heading-5-font-size);
+  font-style: var(--content-heading-5-font-style);
+  font-weight: var(--content-heading-5-font-weight);
+  letter-spacing: var(--content-heading-5-letter-spacing);
+  line-height: var(--content-heading-5-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.heading.right {
+  align-items: flex-end;
+}
+
+.heading.center {
+  align-items: center;
+}
+
+.heading.left {
+  align-items: flex-start;
+}
+
+.heading .standard {
+  color: var(--filltextprimary);
+}
+
+.heading .inverse {
+  color: var(--filltextprimary-inverse);
+}
+
+.heading .alignment-right {
+  text-align: right;
+}
+
+.heading .alignment-center {
+  text-align: center;
+}

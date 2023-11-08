@@ -1,0 +1,306 @@
+.fig-set .overlap-group-2 {
+  position: relative;
+}
+
+.fig-set .class-3 {
+  left: 6px !important;
+  top: 6px !important;
+}
+
+.fig-set .class-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.fig-set .class-5 {
+  border-radius: 24.04px !important;
+  height: 48px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 48px !important;
+}
+
+.fig-set .class-6 {
+  left: 52px !important;
+  position: absolute !important;
+  top: 4px !important;
+}
+
+.fig-set .class-7 {
+  left: 36px !important;
+  position: absolute !important;
+  top: 4px !important;
+}
+
+.fig-set .child-right {
+  background-color: var(--backgroundsurfacemain-default);
+  position: absolute;
+}
+
+.fig-set .fig-2-7 {
+  height: 16px !important;
+  left: 4px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 16px !important;
+}
+
+.fig-set .fig-2-8 {
+  height: 12px !important;
+  left: 2px !important;
+  position: absolute !important;
+  top: 2px !important;
+  width: 12px !important;
+}
+
+.fig-set .fig-wrapper {
+  background-color: var(--backgroundsurfacealternative);
+  border-radius: 24px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.fig-set .fig-4 {
+  height: 24px !important;
+  left: 12px !important;
+  position: absolute !important;
+  top: 12px !important;
+  width: 24px !important;
+}
+
+.fig-set .fig-2-7-wrapper {
+  background-color: var(--backgroundsurfacemain-default);
+  position: absolute;
+}
+
+.fig-set .property-1-48 {
+  height: 48px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 48px !important;
+}
+
+.fig-set .badge-instance {
+  left: 43px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.fig-set .fig-2-8-wrapper {
+  background-color: var(--backgroundsurfacemain-default);
+  border-radius: 12px;
+  height: 24px;
+  left: 31px;
+  position: absolute;
+  top: 36px;
+  width: 24px;
+}
+
+.fig-set .avatar-instance {
+  position: relative !important;
+}
+
+.fig-set .placeholder {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.fig-set .fig-4-instance {
+  height: 24px !important;
+  left: 4px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 24px !important;
+}
+
+.fig-set .child-right-wrapper {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  margin-top: -12px;
+  padding: 0px 0px 0px 22px;
+  position: relative;
+  width: 100%;
+}
+
+.fig-set .child-right-2 {
+  background-color: var(--backgroundsurfacemain-default);
+  border-radius: 8px;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.fig-set .instance-node {
+  left: 24px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.fig-set.size-1-m {
+  height: 48px;
+  width: 48px;
+}
+
+.fig-set.size-1-l {
+  height: 64px;
+  width: 64px;
+}
+
+.fig-set.size-1-s {
+  align-items: flex-start;
+  flex-direction: column;
+  position: relative;
+}
+
+.fig-set.size-1-s.type-0-image {
+  display: inline-flex;
+}
+
+.fig-set.type-0-icon.size-1-l {
+  background-color: var(--backgroundsurfacealternative);
+  border-radius: 32px;
+}
+
+.fig-set.type-0-icon.size-1-s {
+  display: inline-flex;
+}
+
+.fig-set.type-0-avatar.size-1-s {
+  display: flex;
+  height: 36px;
+  width: 38px;
+}
+
+.fig-set.size-1-m .div-2 {
+  height: 48px;
+}
+
+.fig-set.type-0-image .div-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 100px;
+  position: relative;
+}
+
+.fig-set.type-0-icon .div-2 {
+  position: relative;
+}
+
+.fig-set.size-1-s .div-2 {
+  height: 64px;
+}
+
+.fig-set.type-0-icon.size-1-m .div-2 {
+  border-radius: 24px;
+}
+
+.fig-set.size-1-l.type-0-avatar .div-2 {
+  height: 64px;
+}
+
+.fig-set.size-1-l.type-0-image .div-2 {
+  background-image: url(https://c.animaapp.com/HX16q0dF/img/barcelona-1-2@2x.png);
+  height: 64px;
+}
+
+.fig-set.type-0-image.size-1-m .div-2 {
+  background-image: url(https://c.animaapp.com/HX16q0dF/img/barcelona-1@2x.png);
+}
+
+.fig-set.type-0-icon.size-1-l .div-2 {
+  height: 60px;
+  left: 9px;
+  top: 4px;
+  width: 55px;
+}
+
+.fig-set.size-1-l .overlap-group-2 {
+  height: 64px;
+  width: 64px;
+}
+
+.fig-set.size-1-s .overlap-group-2 {
+  height: 48px;
+  width: 48px;
+}
+
+.fig-set.size-1-m .overlap-group-2 {
+  border-radius: 24.04px;
+  height: 48px;
+  width: 48px;
+}
+
+.fig-set.size-1-l .child-right {
+  border-radius: 12px;
+  height: 24px;
+  left: 40px;
+  top: 40px;
+  width: 24px;
+}
+
+.fig-set.size-1-s .child-right {
+  border-radius: 8px;
+  height: 16px;
+  left: 32px;
+  top: 32px;
+  width: 16px;
+}
+
+.fig-set.size-1-m .child-right {
+  border-radius: 8px;
+  height: 16px;
+  left: 32px;
+  top: 32px;
+  width: 16px;
+}
+
+.fig-set.size-1-l .fig-2-7-wrapper {
+  border-radius: 12px;
+  height: 24px;
+  left: 40px;
+  top: 40px;
+  width: 24px;
+}
+
+.fig-set.size-1-s .fig-2-7-wrapper {
+  border-radius: 8px;
+  height: 16px;
+  left: 32px;
+  top: 32px;
+  width: 16px;
+}
+
+.fig-set.size-1-m .fig-2-7-wrapper {
+  border-radius: 8px;
+  height: 16px;
+  left: 32px;
+  top: 32px;
+  width: 16px;
+}
+
+.fig-set.type-0-image .placeholder {
+  background-image: url(https://c.animaapp.com/HX16q0dF/img/barcelona-1-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 100px;
+}
+
+.fig-set.type-0-icon .placeholder {
+  background-color: var(--backgroundsurfacealternative);
+  border-radius: 16px;
+}
+
+.fig-set.type-0-avatar .placeholder {
+  border-radius: 100px;
+}

@@ -1,0 +1,226 @@
+.avatar .overlap-group {
+  position: relative;
+}
+
+.avatar .box {
+  background-color: var(--backgroundsurfaceinverse-b);
+  border: 2px solid;
+  border-color: var(--strokemain);
+  border-radius: 33px;
+  height: 66px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.avatar .typography-content-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 12px;
+  position: absolute;
+  top: 1px;
+}
+
+.avatar .text-wrapper {
+  color: var(--filltextprimary-inverse);
+  font-family: var(--content-heading-1-font-family);
+  font-size: var(--content-heading-1-font-size);
+  font-style: var(--content-heading-1-font-style);
+  font-weight: var(--content-heading-1-font-weight);
+  letter-spacing: var(--content-heading-1-letter-spacing);
+  line-height: var(--content-heading-1-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.avatar .heading-5 {
+  display: inline-flex !important;
+  justify-content: center !important;
+  left: 4px !important;
+  top: 3px !important;
+  width: unset !important;
+}
+
+.avatar .heading-instance {
+  align-self: unset !important;
+  white-space: nowrap !important;
+  width: fit-content !important;
+}
+
+.avatar .fig {
+  height: 48px !important;
+  left: 7px !important;
+  position: absolute !important;
+  top: 7px !important;
+  width: 48px !important;
+}
+
+.avatar .ellipse {
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+}
+
+.avatar .class {
+  height: 24px !important;
+  left: 11px !important;
+  position: absolute !important;
+  top: 11px !important;
+  width: 24px !important;
+}
+
+.avatar .class-2 {
+  height: 24px !important;
+  left: 3px !important;
+  position: absolute !important;
+  top: 3px !important;
+  width: 24px !important;
+}
+
+.avatar .div {
+  align-self: stretch;
+  color: var(--filltextprimary-inverse);
+  font-family: var(--content-heading-2-font-family);
+  font-size: var(--content-heading-2-font-size);
+  font-style: var(--content-heading-2-font-style);
+  font-weight: var(--content-heading-2-font-weight);
+  letter-spacing: var(--content-heading-2-letter-spacing);
+  line-height: var(--content-heading-2-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.avatar.image {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.avatar.icon.m {
+  height: 32px;
+  width: 32px;
+}
+
+.avatar.text.XL {
+  height: 64px;
+  width: 64px;
+}
+
+.avatar.text.l {
+  background-color: var(--backgroundsurfaceinverse-b);
+  border: 2px solid;
+  border-color: var(--strokemain);
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+}
+
+.avatar.icon.l {
+  height: 48px;
+  width: 48px;
+}
+
+.avatar.text.m {
+  height: 32px;
+  width: 32px;
+}
+
+.avatar.XL.icon {
+  height: 64px;
+  width: 64px;
+}
+
+.avatar.icon .overlap-group {
+  background-color: var(--backgroundsurfacealternative);
+  border: 2px solid;
+  border-color: var(--strokemain);
+  left: -1px;
+  top: -1px;
+}
+
+.avatar.icon.m .overlap-group {
+  border-radius: 17px;
+  height: 34px;
+  width: 34px;
+}
+
+.avatar.text.XL .overlap-group {
+  height: 66px;
+  left: -2px;
+  top: -1px;
+  width: 67px;
+}
+
+.avatar.XL.image .overlap-group {
+  height: 64px;
+  width: 64px;
+}
+
+.avatar.l.image .overlap-group {
+  height: 48px;
+  width: 48px;
+}
+
+.avatar.text.l .overlap-group {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 7px;
+  top: 7px;
+}
+
+.avatar.image.m .overlap-group {
+  height: 32px;
+  width: 32px;
+}
+
+.avatar.icon.l .overlap-group {
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+}
+
+.avatar.text.m .overlap-group {
+  background-color: var(--backgroundsurfaceinverse-b);
+  border: 2px solid;
+  border-color: var(--strokemain);
+  border-radius: 17px;
+  height: 34px;
+  left: -1px;
+  top: -1px;
+  width: 34px;
+}
+
+.avatar.XL.icon .overlap-group {
+  border-radius: 33px;
+  height: 66px;
+  width: 66px;
+}
+
+.avatar.l .ellipse {
+  height: 50px;
+  width: 50px;
+}
+
+.avatar.XL .ellipse {
+  height: 66px;
+  width: 66px;
+}
+
+.avatar.m .ellipse {
+  height: 34px;
+  width: 34px;
+}

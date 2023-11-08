@@ -1,0 +1,118 @@
+.timeline {
+  align-items: flex-start;
+  display: flex;
+  padding: 12px 20px;
+  position: relative;
+  width: 375px;
+}
+
+.timeline .left-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 12px;
+  position: relative;
+}
+
+.timeline .fig-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 64px;
+  min-width: 32px;
+  position: relative;
+}
+
+.timeline .fig-set {
+  display: inline-flex !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  justify-content: center !important;
+  width: unset !important;
+}
+
+.timeline .text-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-right: -10px;
+  padding: 0px 0px 2px;
+  position: relative;
+  width: 210px;
+}
+
+.timeline .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 4px;
+  height: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.timeline .typography-content-3 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--filltextprimary);
+  display: -webkit-box;
+  font-family: var(--content-heading-4-font-family);
+  font-size: var(--content-heading-4-font-size);
+  font-style: var(--content-heading-4-font-style);
+  font-weight: var(--content-heading-4-font-weight);
+  letter-spacing: var(--content-heading-4-letter-spacing);
+  line-height: var(--content-heading-4-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.timeline .typography-content-4 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  align-self: stretch;
+  color: var(--filltextprimary);
+  display: -webkit-box;
+  font-family: var(--content-detail-2-font-family);
+  font-size: var(--content-detail-2-font-size);
+  font-style: var(--content-detail-2-font-style);
+  font-weight: var(--content-detail-2-font-weight);
+  letter-spacing: var(--content-detail-2-letter-spacing);
+  line-height: var(--content-detail-2-line-height);
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+}
+
+.timeline .right-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.timeline .typography-amount {
+  color: var(--filltextprimary);
+  font-family: var(--amount-amount-3-font-family);
+  font-size: var(--amount-amount-3-font-size);
+  font-style: var(--amount-amount-3-font-style);
+  font-weight: var(--amount-amount-3-font-weight);
+  letter-spacing: var(--amount-amount-3-letter-spacing);
+  line-height: var(--amount-amount-3-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}

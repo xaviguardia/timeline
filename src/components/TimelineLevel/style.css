@@ -1,0 +1,21 @@
+.timeline-level {
+  height: 17px;
+  position: relative;
+  width: 91px;
+}
+
+.timeline-level .typography-content-2 {
+  color: var(--filltextprimary);
+  font-family: var(--content-detail-2-font-family);
+  font-size: var(--content-detail-2-font-size);
+  font-style: var(--content-detail-2-font-style);
+  font-weight: var(--content-detail-2-font-weight);
+  left: 0;
+  letter-spacing: var(--content-detail-2-letter-spacing);
+  line-height: var(--content-detail-2-line-height);
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+  width: 91px;
+}
